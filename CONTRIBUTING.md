@@ -1,6 +1,6 @@
 # Welcome Folks!
 
-Thank you for taking interest, please use this
+Thank you for taking interest, please use this to contribute.
 
 ## Adding Organization
 
@@ -12,8 +12,7 @@ Orgname Orglink Joinlink
 - Orglink - Link to the GitHub organization
 - JoinLink - Link to the instruction how to join in an Organization
 
-> Note 
-> The organization must be in GitHub only
+**Note: The organization must be in GitHub only**
 
 ## Updating Organization
 
