@@ -1,4 +1,4 @@
-# Awesome Open Organization
+# Awesome Open Organizations
 
 An awesome list of open-source organizations open to join.
 - **Open** as open-source
