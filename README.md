@@ -10,3 +10,6 @@ An awesome list of open-source organizations open to join :heart:
 - C-Chads: [Org](https://github.com/C-Chads/) ([Join](https://github.com/C-Chads/C-Chads))
 - pysnippet: [Org](https://github.com/pysnippet/) ([Join](https://pysnippet.org/members))
 - EddieHubCommunity: [Org](https://github.com/EddieHubCommunity/) ([Join](https://github.com/EddieHubCommunity/support))
+
+# Contributing
+Please see [Contributing](https://github.com/diamant3/awesome-open2join-organization/blob/main/CONTRIBUTING.md).
