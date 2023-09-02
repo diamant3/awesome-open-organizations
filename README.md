@@ -1,6 +1,6 @@
 # Awesome Open Organization
 
-An awesome list of open-source organizations open to join :heart:
+An awesome list of open-source organizations open to join.
 - **Open** as open-source
 - **Open** as open for membership
 
