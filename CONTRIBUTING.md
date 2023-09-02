@@ -6,7 +6,7 @@ Thank you for taking interest, please use this to contribute.
 
 ### Format
 
-Orgname Orglink Joinlink
+Orgname: Orglink Joinlink
 
 - Orgname - name of the GitHub organization
 - Orglink - Link to the GitHub organization
