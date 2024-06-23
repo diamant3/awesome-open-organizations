@@ -27,6 +27,7 @@ An awesome list of open-source organizations open to join.
 ### N
 ### O
 ### P
+- py-contributors: [Org](https://github.com/Py-Contributors) ([Join](https://github.com/Py-Contributors/support))
 - pysnippet: [Org](https://github.com/pysnippet/) ([Join](https://pysnippet.org/members))
 ### Q
 ### R
