@@ -25,6 +25,7 @@ An awesome list of open-source organizations open to join.
 ### M
 - Maintainer Community: [Org](https://github.com/maintainers/) ([Join](https://maintainers.github.com))
 ### N
+- NextCommunity: [Org](https://github.com/NextCommunity) ([Join](https://github.com/NextCommunity/NextCommunity.github.io))
 ### O
 ### P
 - py-contributors: [Org](https://github.com/Py-Contributors) ([Join](https://github.com/Py-Contributors/support))
