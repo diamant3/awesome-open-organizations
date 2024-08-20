@@ -29,7 +29,7 @@ An awesome list of open-source organizations open to join.
 ### O
 ### P
 - py-contributors: [Org](https://github.com/Py-Contributors) ([Join](https://github.com/Py-Contributors/support))
-- python-trio [Org](https://github.com/python-trio/) ([Join](https://trio.readthedocs.io/en/stable/contributing.html#joining-the-team))
+- python-trio: [Org](https://github.com/python-trio/) ([Join](https://trio.readthedocs.io/en/stable/contributing.html#joining-the-team))
 - pysnippet: [Org](https://github.com/pysnippet/) ([Join](https://pysnippet.org/members))
 ### Q
 ### R
