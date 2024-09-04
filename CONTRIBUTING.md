@@ -6,18 +6,15 @@ Thank you for taking interest, please use this to contribute.
 
 ### Format
 
-Orgname: Orglink Joinlink
+Organization's name | Join Instruction
 
-- Orgname - name of the GitHub organization
-- Orglink - Link to the GitHub organization
-- JoinLink - Link to the instruction how to join in an Organization
-
-**Note: The organization must be in GitHub only**
+- Organization's name - Should be the front page/Landing page of the organization.
+- Join Instruction - Should be the front page of the member registration.
 
 ## Updating Organization
 
-Same as Adding :)
+Please raise an [issue](https://github.com/diamant3/awesome-open-organizations/issues/new) or feel free to make a PR to update.
 
 ## Removing Organization
 
-Please raise an issue if not working or the organization is not open to join anymore.
+Please raise an [issue](https://github.com/diamant3/awesome-open-organizations/issues/new) if not working or the organization is not open to join anymore.
