@@ -41,9 +41,10 @@ An awesome list of open-source organizations open-to-join.
 - [pysnippet](https://github.com/pysnippet/) | [Join](https://pysnippet.org/members)
 ### Q
 ### R
-   [risk-first](https://github.com/risk-first/) | [Join](https://github.com/risk-first/automation)
+- [risk-first](https://github.com/risk-first/) | [Join](https://github.com/risk-first/automation)
 ### S
 ### T
+- [typesnippet](https://github.com/typesnippet/) | [Join](https://typesnippet.org/members)
 ### U
 ### V
 ### W
